@@ -1,6 +1,4 @@
-Original: Not applicable
-
-New:
+Makes it possible to smelt Rotten Flesh into Leather.
 
 ```json
 {

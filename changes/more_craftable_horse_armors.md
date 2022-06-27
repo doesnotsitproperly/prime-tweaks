@@ -1,6 +1,4 @@
-Original: Not applicable
-
-New:
+Adds recipes for Iron, Golden, and Diamond Horse Armors. Each recipe is added to the player's recipe book once they an Iron Ingot, a Gold Ingot, or a Diamond.
 
 ```json
 {

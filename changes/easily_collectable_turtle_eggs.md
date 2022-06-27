@@ -1,3 +1,5 @@
+Makes it possible to collect Turtle Eggs without a Silk Touch-enchanted tool. No tools are required.
+
 Original:
 
 ```json

@@ -1,3 +1,5 @@
+Makes Endermen always drop at least one Ender Pearl.
+
 Original:
 
 ```json

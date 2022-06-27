@@ -1,6 +1,4 @@
-Original: Not applicable
-
-New:
+Adds a recipe for Saddles. The recipe is added to the player's recipe book once they collect a piece of Leather.
 
 ```json
 {

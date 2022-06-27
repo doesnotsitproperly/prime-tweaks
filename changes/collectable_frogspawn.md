@@ -1,3 +1,5 @@
+Makes it possible to collect Frogspawn blocks. No tools are required.
+
 Original:
 
 ```json

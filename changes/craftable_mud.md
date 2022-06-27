@@ -7,7 +7,7 @@ New:
     "type": "minecraft:crafting_shaped",
     "key": {
         "!": {
-            "tag": "prime_tweaks:dirt"
+            "item": "minecraft:dirt"
         },
         "@": {
             "item": "minecraft:water_bucket"

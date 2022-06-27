@@ -1,4 +1,4 @@
-Makes it possible to smelt Rotten Flesh into Leather.
+Makes it possible to smelt Rotten Flesh into Leather. The recipe is added to the player's recipe book once they collect a piece of Rotten Flesh.
 
 ```json
 {

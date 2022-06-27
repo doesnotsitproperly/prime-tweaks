@@ -1,7 +1,6 @@
 A data pack for Minecraft (1.19) that includes several tweaks
 
 - [Collectable Frogspawn](changes/collectable_frogspawn.md)
-- [Craftable Mud](changes/craftable_mud.md)
 - [Craftable Saddles](changes/craftable_saddles.md)
 - [Easily collectable Gravel & craftable Flint](changes/easily_collectable_gravel_&_craftable_flint.md)
 - [Easily collectable Turtle Eggs](changes/easily_collectable_turtle_eggs.md)

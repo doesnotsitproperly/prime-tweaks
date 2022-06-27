@@ -4,6 +4,7 @@ A data pack for Minecraft (1.19) that includes several tweaks
 - [Craftable Saddles](changes/craftable_saddles.md)
 - [Easily collectable Gravel & craftable Flint](changes/easily_collectable_gravel_&_craftable_flint.md)
 - [Easily collectable Turtle Eggs](changes/easily_collectable_turtle_eggs.md)
+- [Endermen always drop an Ender Pearl](changes/endermen_always_drop_an_ender_pearl.md)
 - [More craftable Horse Armors](changes/more_craftable_horse_armors.md)
 - [Pigs drop more Porkchops](changes/pigs_drop_more_porkchops.md)
 - [Smelt Rotten Flesh into Leather](changes/smelt_rotten_flesh_into_leather.md)
@@ -11,4 +12,3 @@ A data pack for Minecraft (1.19) that includes several tweaks
 Planned:
 - Craftable Name Tags
 - Craftable String
-- Endermen always drop an Ender Pearl

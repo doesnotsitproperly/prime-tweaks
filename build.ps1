@@ -26,7 +26,7 @@ $output =
     $indent + "}" + $n +
     "}"
 
-$output | Out-File $metaFile
+Write-Output $output | Out-File $metaFile
 
 # Compress archive
 

@@ -1,7 +1,8 @@
 Gravel now always drops itself and never drops Flint. Adds a recipe to craft Gravel into Flint. The recipe is added to the player's recipe book once they collect a piece of Gravel.
 
-Original:
+Original file(s):
 
+gravel.json
 ```json
 {
     "type": "minecraft:block",
@@ -70,41 +71,7 @@ Original:
 }
 ```
 
-New:
-
-```json
-{
-    "type": "minecraft:block",
-    "pools": [
-        {
-            "bonus_rolls": 0.0,
-            "conditions": [
-                {
-                    "condition": "minecraft:survives_explosion"
-                }
-            ],
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:gravel"
-                }
-            ],
-            "rolls": 1.0
-        }
-    ]
-}
-```
-
-```json
-{
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        {
-            "item": "minecraft:gravel"
-        }
-    ],
-    "result": {
-        "item": "minecraft:flint"
-    }
-}
-```
+New file(s):
+- [gravel.json](../src/data/minecraft/loot_tables/blocks/gravel.json)
+- [flint.json (Recipe)](../src/data/prime_tweaks/recipes/flint.json)
+- [flint.json (Advancement)](../src/data/prime_tweaks/advancements/recipes/misc/flint.json)

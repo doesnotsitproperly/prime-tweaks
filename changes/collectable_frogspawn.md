@@ -1,34 +1,13 @@
 Makes it possible to collect Frogspawn blocks. No tools are required.
 
-Original:
+Original file(s):
 
+frogspawn.json
 ```json
 {
     "type": "minecraft:block"
 }
 ```
 
-New:
-
-```json
-{
-    "type": "minecraft:block",
-    "pools": [
-        {
-            "bonus_rolls": 0.0,
-            "conditions": [
-                {
-                    "condition": "minecraft:survives_explosion"
-                }
-            ],
-            "entries": [
-                {
-                    "type": "minecraft:item",
-                    "name": "minecraft:frogspawn"
-                }
-            ],
-            "rolls": 1.0
-        }
-    ]
-}
-```
+New file(s):
+- [frogspawn.json](../src/data/minecraft/loot_tables/blocks/frogspawn.json)

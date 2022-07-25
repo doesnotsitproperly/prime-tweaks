@@ -1,3 +1,5 @@
+#!/usr/bin/env pwsh
+
 # Get version
 
 $contributors = Invoke-WebRequest "https://api.github.com/repos/doesnotsitproperly/prime-tweaks/contributors" | ConvertFrom-Json

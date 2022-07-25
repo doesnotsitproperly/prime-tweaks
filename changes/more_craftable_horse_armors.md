@@ -1,4 +1,4 @@
-Adds recipes for Iron, Golden, and Diamond Horse Armors. Each recipe is added to the player's recipe book once they an Iron Ingot, a Gold Ingot, or a Diamond.
+Adds recipes for Iron, Golden, and Diamond Horse Armors. Each recipe is added to the player's recipe book once they collect an Iron Ingot, a Gold Ingot, or a Diamond.
 
 New file(s):
 - [iron_horse_armor.json (Recipe)](../src/data/prime_tweaks/recipes/iron_horse_armor.json)

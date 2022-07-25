@@ -1,4 +1,4 @@
-Gravel now always drops itself and never drops Flint. Adds a recipe to craft Gravel into Flint. The recipe is added to the player's recipe book once they collect a piece of Gravel.
+Gravel now always drops itself and never drops Flint; adds a recipe to craft Gravel into Flint. The recipe is added to the player's recipe book once they collect a piece of Gravel.
 
 Original file(s):
 
